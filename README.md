@@ -12,7 +12,7 @@
 ## 🚀 About Me  
  
 🎓 M.Sc. Software Engineering Student  
-📍 Based in Heilbronn | Open to relocation across Germany  
+📍 Germany  
 💼 Seeking **6-Month Mandatory Internship (March–August 2026)**  
 
 I am a high-performing Software Engineering Master's student with:
