@@ -1,9 +1,9 @@
 <!-- Animated Typing Header -->
-<h1 align="center">
+<h1 align="left">
   Hi 👋 I'm Het Suthar
 </h1>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=AI-Driven+Full-Stack+Developer;M.Sc.+Software+Engineering+Student+in+Germany;MERN+%7C+Spring+Boot+%7C+Machine+Learning;Seeking+Mandatory+Internship+(Mar–Aug+2026)" />
 </p>
 
