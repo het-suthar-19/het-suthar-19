@@ -4,7 +4,7 @@
 </h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=AI-Driven+Full-Stack+Developer;M.Sc.+Software+Engineering+Student+in+Germany;MERN+%7C+Spring+Boot+%7C+Machine+Learning;Seeking+Mandatory+Internship+(Mar–Aug+2026)" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Studying+Software+Engineering;Seeking+Mandatory+Internship;AI+Driven+Full+Stack+Developer)](https://git.io/typing-svg)
 </p>
 
 ---
