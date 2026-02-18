@@ -128,7 +128,7 @@ German – A2 (Improving Continuously)
 📍 Heilbronn, Germany  
 📧 hetsuthar55@gmail.com  
 📞 +49 1521 8950117  
-🔗 LinkedIn: (Add your LinkedIn URL here)
+🔗 LinkedIn: linkedin.com/in/het-suthar-5764593a2
 
 ---
 
