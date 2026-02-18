@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  Hi 👋 I'm Het Sanjaykumar Suthar
+  Hi 👋 I'm Het Suthar
 </h1>
 
 <p align="center">
@@ -10,8 +10,7 @@
 ---
 
 ## 🚀 About Me  
-
-🇮🇳 India → 🇩🇪 Germany  
+ 
 🎓 M.Sc. Software Engineering Student  
 📍 Based in Heilbronn | Open to relocation across Germany  
 💼 Seeking **6-Month Mandatory Internship (March–August 2026)**  
