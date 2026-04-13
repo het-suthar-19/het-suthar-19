@@ -13,7 +13,7 @@
  
 🎓 M.Sc. Software Engineering Student  
 📍 Germany  
-💼 Seeking **6-Month Mandatory Internship (March–August 2026)**  
+💼 Seeking **6-Month Mandatory Internship**  
 
 I am a high-performing Software Engineering Master's student with:
 
