@@ -4,9 +4,6 @@
 </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Studying+Software+Engineering;Seeking+Mandatory+Internship;AI+Driven+Full+Stack+Developer)](https://git.io/typing-svg)
-
-
 ---
 
 ## 🚀 About Me  
