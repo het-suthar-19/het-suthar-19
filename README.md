@@ -43,7 +43,7 @@
 
 ### 🔄 Dev & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,n8n" />
 </p>
 
 ---
