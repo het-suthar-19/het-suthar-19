@@ -1,12 +1,11 @@
-# Het Suthar
+
 
 # Het Suthar
-
 M.Sc. Software Engineering student based in Heilbronn, Germany, building agentic AI systems.
 
 ## About
 
-I focus on multi-agent AI systems: orchestration, evaluation, and human-in-the-loop design rather than fully autonomous black boxes. Currently looking for an agentic AI internship in Germany, available immediately.
+I focus on multi-agent AI systems: orchestration, evaluation, and human-in-the-loop design rather than fully autonomous black boxes. Currently looking for an agentic AI (mandatory) internship in Germany.
 
 ## Agentic AI
 
@@ -23,7 +22,6 @@ I focus on multi-agent AI systems: orchestration, evaluation, and human-in-the-l
 **SentinelEval**
 A multi-agent system that automatically red-teams and evaluates AI chatbots. Generates adversarial prompts, runs them against a target chatbot, scores responses using two independent judges, and presents results through a Streamlit dashboard.
 Tools: AutoGen, Groq, DeepEval, Streamlit
-[Repository](https://github.com/het-suthar-19/sentineleval)
 
 **Multimodal RAG System**
 A retrieval-augmented generation pipeline combining hybrid retrieval, cross-encoder reranking, and vector search.
