@@ -1,73 +1,44 @@
-<!-- Animated Typing Header -->
-<h1 align="left">
-  Hi 👋 I'm Het Suthar
-</h1>
+# Het Suthar
 
+# Het Suthar
 
----
+M.Sc. Software Engineering student based in Heilbronn, Germany, building agentic AI systems.
 
-## 🚀 About Me  
- 
-🎓 M.Sc. Software Engineering Student  
-📍 Germany  
+## About
 
-# 🛠 Tech Stack  
+I focus on multi-agent AI systems: orchestration, evaluation, and human-in-the-loop design rather than fully autonomous black boxes. Currently looking for an agentic AI internship in Germany, available immediately.
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,dart,rust,sql" />
-</p>
+## Agentic AI
 
-### ⚙️ Backend & APIs
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
+**Frameworks:** LangGraph, LangChain, CrewAI, AutoGen, n8n, OpenAI SDK (Agents/Assistants)
 
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" />
-</p>
+**Protocols & Tooling:** MCP (Model Context Protocol), DeepEval, LangSmith, Langfuse
 
-### 📱 Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,react" />
-</p>
+**Core concepts:** multi-agent orchestration, planner-executor patterns, human-in-the-loop approval gates, agent evaluation and red-teaming, retrieval-augmented generation, audit trails for autonomous workflows
 
-### 🗄 Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
+**AI infrastructure:** Qdrant, embeddings, hybrid retrieval, cross-encoder reranking, Groq, Ollama
 
-### 🔄 Dev & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,n8n" />
-</p>
+## Projects
 
----
+**SentinelEval**
+A multi-agent system that automatically red-teams and evaluates AI chatbots. Generates adversarial prompts, runs them against a target chatbot, scores responses using two independent judges, and presents results through a Streamlit dashboard.
+Tools: AutoGen, Groq, DeepEval, Streamlit
+[Repository](https://github.com/het-suthar-19/sentineleval)
 
-# 🤖 AI & Machine Learning Focus
+**Multimodal RAG System**
+A retrieval-augmented generation pipeline combining hybrid retrieval, cross-encoder reranking, and vector search.
+Tools: Python, Flask, Docker, Qdrant
 
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI Systems
-- Deep Learning Applications
-- Predictive Modeling
-- Data Processing & Optimization
-- n8n AI Workflows
+**Autonomous Multi-Agent DevOps Workflow**
+An automated GitLab workflow for code analysis, fixes, and reporting using local LLM agents.
+Tools: n8n, Docker
 
----
+## Other Tech
 
-# 🚀 Featured Projects  
+Python, Java, JavaScript, TypeScript, SQL, Spring Boot, Node.js, Flask, Docker, Git, REST APIs, PostgreSQL, MongoDB, MySQL
 
-### 🧠 Multimodal RAG Chatbot
-Advanced context-aware AI chatbot integrating multimodal inputs with scalable backend architecture.
+## Contact
 
-### 🤖 Agentic Code Reviewer
-AI-powered automated code review system providing contextual feedback for developers.
-
-
-# 📫 Let's Connect  
-
-📍 Heilbronn, Germany  
-📧 hetsuthar55@gmail.com  
-📞 +49 1521 8950117  
-🔗 LinkedIn: linkedin.com/in/het-suthar-5764593a2
+Heilbronn, Germany
+hetsuthar55@gmail.com
+[LinkedIn](https://linkedin.com/in/het-suthar-5764593a2)
